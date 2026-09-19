@@ -22,6 +22,23 @@
 <br><br>
 
 <h2 align="center">
+  📊&nbsp;&nbsp;<b>GitHub Stats</b>
+</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Kafeinarts/.github/main/asset/org-stats.svg" width="760" alt="Team Activity"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kafeinarts&theme=github_dark" width="375" alt="Top Languages by Repo"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kafeinarts&theme=github_dark" width="375" alt="Top Languages by Commit"/>
+
+</div>
+
+<br><br>
+
+<h2 align="center">
   🚀&nbsp;&nbsp;<b>About Kafeinarts</b>
 </h2>
 
@@ -128,29 +145,6 @@
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br><br>
-
-<h2 align="center">
-  📊&nbsp;&nbsp;<b>GitHub Stats</b>
-</h2>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Kafeinarts/.github/main/asset/org-stats.svg" width="760" alt="Team Activity"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kafeinarts&theme=github_dark" width="375" alt="Top Languages by Repo"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kafeinarts&theme=github_dark" width="375" alt="Top Languages by Commit"/>
-
-</div>
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/Kafeinarts/.github/main/asset/contributions.svg" width="750" alt="Contributions"/>
-
-</div>
 
 <br><br>
 

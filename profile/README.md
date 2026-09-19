@@ -67,8 +67,8 @@
 
 <div align="center">
 
-| 🚀 Learn | 💻 Build | 🤝 Collaborate | 🌱 Grow |
-| :---: | :---: | :---: | :---: |
+|        🚀 Learn        |     💻 Build      |     🤝 Collaborate      |      🌱 Grow       |
+| :--------------------: | :---------------: | :---------------------: | :----------------: |
 | Belajar teknologi baru | Membangun project | Berkolaborasi dalam tim | Berkembang bersama |
 
 </div>
@@ -137,8 +137,14 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kafeinarts&theme=github_dark" width="345" alt="Top Languages by Repo"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kafeinarts&theme=github_dark" width="345" alt="Top Languages by Commit"/>
+<img src="https://raw.githubusercontent.com/Kafeinarts/.github/main/asset/org-stats.svg" width="760" alt="Team Activity"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kafeinarts&theme=github_dark" width="375" alt="Top Languages by Repo"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kafeinarts&theme=github_dark" width="375" alt="Top Languages by Commit"/>
+
+</div>
 
 <br><br>
 

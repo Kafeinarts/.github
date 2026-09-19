@@ -9,7 +9,7 @@
 <br><br>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kafeinarts.Kafeinarts" alt="Visitors" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kafeinarts.Kafeinarts" alt="Visitors"/>
   <a href="https://github.com/Kafeinarts">
     <img src="https://img.shields.io/github/followers/Kafeinarts?label=followers&style=social" alt="GitHub Followers"/>
   </a>
@@ -25,23 +25,29 @@
   🚀&nbsp;&nbsp;<b>About Kafeinarts</b>
 </h2>
 
-<pre>
+<p align="center">
   Kafeinarts adalah wadah bagi tim untuk belajar, berdiskusi,
   berbagi pengetahuan, bereksperimen, dan berkembang bersama
   dalam dunia teknologi dan pemrograman.
+</p>
 
-  Organization ini digunakan untuk menampung berbagai repository
+<p align="center">
+  Organization ini digunakan untuk menampung berbagai repository,
   project, latihan, eksperimen, serta hasil kolaborasi tim Kafeinarts.
+</p>
 
-  Kami percaya bahwa belajar tidak harus selalu dimulai
-  dari sesuatu yang besar.
+<p align="center">
+  Kami percaya bahwa perjalanan di dunia teknologi dimulai
+  dari langkah-langkah sederhana.
+</p>
 
-  Mulai dari satu baris kode.
-  Satu error.
-  Satu project.
-
+<p align="center">
+  <b>Satu baris kode.</b><br>
+  <b>Satu error.</b><br>
+  <b>Satu project.</b><br>
+  <br>
   Kemudian terus belajar, membangun, dan berkembang bersama. 🚀
-</pre>
+</p>
 
 <br>
 
@@ -61,8 +67,8 @@
 
 <div align="center">
 
-|        🚀 Learn        |     💻 Build      |     🤝 Collaborate      |      🌱 Grow       |
-| :--------------------: | :---------------: | :---------------------: | :----------------: |
+| 🚀 Learn | 💻 Build | 🤝 Collaborate | 🌱 Grow |
+| :---: | :---: | :---: | :---: |
 | Belajar teknologi baru | Membangun project | Berkolaborasi dalam tim | Berkembang bersama |
 
 </div>
@@ -78,9 +84,8 @@
 </h2>
 
 <p align="center">
-
-Organization ini menjadi tempat untuk menyimpan berbagai project dan perjalanan belajar tim Kafeinarts.
-
+  Organization ini menjadi tempat untuk menyimpan berbagai
+  project dan perjalanan belajar tim Kafeinarts.
 </p>
 
 <div align="center">
@@ -116,7 +121,7 @@ Organization ini menjadi tempat untuk menyimpan berbagai project dan perjalanan 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nextjs,php,laravel,nodejs,python,java,mysql,postgres,supabase,git,github,docker&perline=10"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nextjs,php,laravel,nodejs,python,java,mysql,postgres,supabase,git,github,docker&perline=10" alt="Technologies"/>
 
 </p>
 
@@ -134,17 +139,15 @@ Organization ini menjadi tempat untuk menyimpan berbagai project dan perjalanan 
 
 <a href="https://github.com/Kafeinarts">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kafeinarts&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" width="450" alt="Kafeinarts GitHub Stats"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kafeinarts&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="450" alt="Kafeinarts GitHub Streak"/>
-
-<br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=Kafeinarts&show_icons=true&theme=tokyonight&hide_border=true" width="450" alt="Kafeinarts GitHub Stats"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kafeinarts&layout=compact&theme=tokyonight&hide_border=true" width="450" alt="Kafeinarts Top Languages"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Kafeinarts&title=MultipleLang,Stars,Followers,Issues,Commits,Puller&row=2&column=3&layout=compact&theme=tokyonight&no-frame=true&no-bg=true" width="450" alt="Kafeinarts GitHub Trophy"/>
-
 </a>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Kafeinarts&title=MultipleLang,Stars,Followers,Issues,Commits,PullRequest&row=2&column=3&layout=compact&theme=tokyonight&no-frame=true&no-bg=true" width="700" alt="Kafeinarts GitHub Trophies"/>
 
 </div>
 
@@ -187,16 +190,16 @@ juga pernah memulai dari "Hello World". 🚀
 
 <p align="center">
 
-Kafeinarts adalah tempat untuk belajar, membangun, berbagi,
-dan berkembang bersama.
+Kafeinarts adalah tempat untuk belajar, membangun,
+berbagi, dan berkembang bersama.
 
 <br><br>
 
-<strong>☕ KAFEINARTS — BELAJAR DULU</strong>
+<strong>☕ KAFEINARTS</strong>
 
-<br>
+<br><br>
 
-<sub>Keep Learning • Keep Building • Keep Growing 🚀</sub>
+<sub>Learn • Build • Collaborate • Grow 🚀</sub>
 
 </p>
 
@@ -204,7 +207,7 @@ dan berkembang bersama.
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/KAFEINARTS-BELAJAR%20DULU-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/KAFEINARTS-LEARN%20%7C%20BUILD%20%7C%20GROW-2563EB?style=for-the-badge" alt="Kafeinarts"/>
 
 </p>
 

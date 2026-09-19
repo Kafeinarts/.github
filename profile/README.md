@@ -137,17 +137,12 @@
 
 <div align="center">
 
-<a href="https://github.com/Kafeinarts">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Kafeinarts&show_icons=true&theme=tokyonight&hide_border=true" width="450" alt="Kafeinarts GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kafeinarts&layout=compact&theme=tokyonight&hide_border=true" width="450" alt="Kafeinarts Top Languages"/>
-
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kafeinarts&theme=github_dark" width="345" alt="Top Languages by Repo"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kafeinarts&theme=github_dark" width="345" alt="Top Languages by Commit"/>
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Kafeinarts&title=MultipleLang,Stars,Followers,Issues,Commits,PullRequest&row=2&column=3&layout=compact&theme=tokyonight&no-frame=true&no-bg=true" width="700" alt="Kafeinarts GitHub Trophies"/>
+<img src="https://raw.githubusercontent.com/Kafeinarts/.github/main/asset/contributions.svg" width="750" alt="Contributions"/>
 
 </div>
 

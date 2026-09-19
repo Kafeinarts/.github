@@ -1,209 +1,139 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=50&duration=4000&color=2563EB&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+World!;Welcome+To+Kafeinarts+%E2%9C%A8"/>
+<img src="../asset/banner.png" alt="Kafeinarts Banner" width="100%"/>
 
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=30&duration=3000&pause=1200&color=2563EB&center=true&vCenter=true&repeat=true&width=600&height=60&lines=Hello+World!;Welcome+To+Kafeinarts+%E2%9C%A8;Learn+%E2%80%A2+Build+%E2%80%A2+Collaborate+%E2%80%A2+Grow" alt="Welcome To Kafeinarts"/>
 
-<img src="../asset/banner.png" alt="Kafeinarts Banner"/>
+<a href="https://github.com/orgs/Kafeinarts/repositories"><img src="https://raw.githubusercontent.com/Kafeinarts/.github/main/asset/btn-repositories.svg" width="184" alt="Repositories"/></a>
+<a href="https://github.com/orgs/Kafeinarts/projects"><img src="https://raw.githubusercontent.com/Kafeinarts/.github/main/asset/btn-projects.svg" width="184" alt="Projects"/></a>
+<a href="https://github.com/orgs/Kafeinarts/people"><img src="https://raw.githubusercontent.com/Kafeinarts/.github/main/asset/btn-people.svg" width="184" alt="People"/></a>
 
-<br><br>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kafeinarts.Kafeinarts" alt="Visitors"/>
-  <a href="https://github.com/Kafeinarts">
-    <img src="https://img.shields.io/github/followers/Kafeinarts?label=followers&style=social" alt="GitHub Followers"/>
-  </a>
-</p>
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br><br>
-
-<h2 align="center">
-  📊&nbsp;&nbsp;<b>GitHub Stats</b>
-</h2>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Kafeinarts/.github/main/asset/org-stats.svg" width="760" alt="Team Activity"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kafeinarts&theme=github_dark" width="375" alt="Top Languages by Repo"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kafeinarts&theme=github_dark" width="375" alt="Top Languages by Commit"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Kafeinarts.Kafeinarts" alt="Visitors"/>
 
 </div>
 
-<br><br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kafeinarts/.github/main/asset/divider.svg" width="100%" alt=""/>
+</p>
 
-<h2 align="center">
-  🚀&nbsp;&nbsp;<b>About Kafeinarts</b>
-</h2>
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/Kafeinarts/.github/main/asset/h-about.svg" alt="About"/>
+</h3>
 
 <p align="center">
-  Kafeinarts adalah wadah bagi tim untuk belajar, berdiskusi,
-  berbagi pengetahuan, bereksperimen, dan berkembang bersama
-  dalam dunia teknologi dan pemrograman.
+  <b>Kafeinarts</b> adalah wadah bagi tim untuk belajar, berdiskusi, berbagi pengetahuan, bereksperimen, dan berkembang bersama di dunia teknologi dan pemrograman.
 </p>
 
 <p align="center">
-  Organization ini digunakan untuk menampung berbagai repository,
-  project, latihan, eksperimen, serta hasil kolaborasi tim Kafeinarts.
+  Kami percaya bahwa perjalanan di dunia teknologi dimulai dari langkah-langkah sederhana:
 </p>
 
 <p align="center">
-  Kami percaya bahwa perjalanan di dunia teknologi dimulai
-  dari langkah-langkah sederhana.
+  <b>Satu baris kode &nbsp;·&nbsp; Satu error &nbsp;·&nbsp; Satu project</b>
 </p>
 
 <p align="center">
-  <b>Satu baris kode.</b><br>
-  <b>Satu error.</b><br>
-  <b>Satu project.</b><br>
-  <br>
-  Kemudian terus belajar, membangun, dan berkembang bersama. 🚀
+  <img src="https://raw.githubusercontent.com/Kafeinarts/.github/main/asset/divider.svg" width="100%" alt=""/>
 </p>
 
-<br>
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/Kafeinarts/.github/main/asset/h-whatwedo.svg" alt="What We Do"/>
+</h3>
 
 <p align="center">
-  <b>Learn • Build • Collaborate • Grow</b>
+  <img src="https://raw.githubusercontent.com/Kafeinarts/.github/main/asset/c-learn.svg" width="168" alt="Learn"/>
+  <img src="https://raw.githubusercontent.com/Kafeinarts/.github/main/asset/c-build.svg" width="168" alt="Build"/>
+  <img src="https://raw.githubusercontent.com/Kafeinarts/.github/main/asset/c-collaborate.svg" width="168" alt="Collaborate"/>
+  <img src="https://raw.githubusercontent.com/Kafeinarts/.github/main/asset/c-grow.svg" width="168" alt="Grow"/>
 </p>
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br><br>
-
-<h2 align="center">
-  📚&nbsp;&nbsp;<b>What We Do</b>
-</h2>
-
-<div align="center">
-
-|        🚀 Learn        |     💻 Build      |     🤝 Collaborate      |      🌱 Grow       |
-| :--------------------: | :---------------: | :---------------------: | :----------------: |
-| Belajar teknologi baru | Membangun project | Berkolaborasi dalam tim | Berkembang bersama |
-
-</div>
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br><br>
-
-<h2 align="center">
-  📂&nbsp;&nbsp;<b>Our Repositories</b>
-</h2>
 
 <p align="center">
-  Organization ini menjadi tempat untuk menyimpan berbagai
-  project dan perjalanan belajar tim Kafeinarts.
+  <img src="https://raw.githubusercontent.com/Kafeinarts/.github/main/asset/divider.svg" width="100%" alt=""/>
 </p>
 
-<div align="center">
-
-```text
-📁 Learning Projects
-   └── Repository untuk latihan dan eksplorasi teknologi
-
-📁 Team Projects
-   └── Project yang dibangun bersama oleh tim
-
-📁 Experimental Projects
-   └── Eksperimen, prototype, dan proof of concept
-
-📁 Open Source
-   └── Project yang dapat dipelajari dan dikembangkan bersama
-
-📁 Personal Contributions
-   └── Project dan kontribusi dari anggota Kafeinarts
-```
-
-</div>
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br><br>
-
-<h2 align="center">
-  🛠️&nbsp;&nbsp;<b>Technologies We Explore</b>
-</h2>
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/Kafeinarts/.github/main/asset/h-repositories.svg" alt="Our Repositories"/>
+</h3>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nextjs,php,laravel,nodejs,python,java,mysql,postgres,supabase,git,github,docker&perline=10" alt="Technologies"/>
-
+  Organization ini menjadi tempat untuk menyimpan berbagai project dan perjalanan belajar tim Kafeinarts.
 </p>
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br><br>
-
-<h2 align="center">
-  ☕&nbsp;&nbsp;<b>Our Philosophy</b>
-</h2>
-
-<div align="center">
-
-```text
-Belajar tidak harus langsung jago.
-
-Tidak apa-apa jika masih sering error.
-Tidak apa-apa jika masih bingung.
-Tidak apa-apa jika project pertama belum sempurna.
-
-Yang penting...
-
-Terus belajar.
-Terus mencoba.
-Terus membangun.
-
-Karena setiap developer hebat
-juga pernah memulai dari "Hello World". 🚀
-```
-
-</div>
-
-<br><br>
-
-<h2 align="center">
-  🤝&nbsp;&nbsp;<b>Let's Learn Together!</b>
-</h2>
 
 <p align="center">
-
-Kafeinarts adalah tempat untuk belajar, membangun,
-berbagi, dan berkembang bersama.
-
-<br><br>
-
-<strong>☕ KAFEINARTS</strong>
-
-<br><br>
-
-<sub>Learn • Build • Collaborate • Grow 🚀</sub>
-
+  <img src="https://raw.githubusercontent.com/Kafeinarts/.github/main/asset/r-learning.svg" width="260" alt="Learning Projects"/>
+  <img src="https://raw.githubusercontent.com/Kafeinarts/.github/main/asset/r-team.svg" width="260" alt="Team Projects"/>
+  <img src="https://raw.githubusercontent.com/Kafeinarts/.github/main/asset/r-experimental.svg" width="260" alt="Experimental Projects"/>
+  <img src="https://raw.githubusercontent.com/Kafeinarts/.github/main/asset/r-opensource.svg" width="260" alt="Open Source"/>
+  <img src="https://raw.githubusercontent.com/Kafeinarts/.github/main/asset/r-personal.svg" width="260" alt="Personal Contributions"/>
 </p>
-
-<br>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/KAFEINARTS-LEARN%20%7C%20BUILD%20%7C%20GROW-2563EB?style=for-the-badge" alt="Kafeinarts"/>
-
+  <img src="https://raw.githubusercontent.com/Kafeinarts/.github/main/asset/divider.svg" width="100%" alt=""/>
 </p>
 
-</div>
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/Kafeinarts/.github/main/asset/h-technologies.svg" alt="Technologies We Explore"/>
+</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nextjs,php,laravel,nodejs,python,java,mysql,postgres,supabase,git,github,docker&perline=9" alt="Technologies"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kafeinarts/.github/main/asset/divider.svg" width="100%" alt=""/>
+</p>
+
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/Kafeinarts/.github/main/asset/h-stats.svg" alt="GitHub Stats"/>
+</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kafeinarts/.github/main/asset/org-stats.svg" width="760" alt="Team Activity"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kafeinarts&theme=github_dark" width="370" alt="Top Languages by Repo"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kafeinarts&theme=github_dark" width="370" alt="Top Languages by Commit"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kafeinarts/.github/main/asset/divider.svg" width="100%" alt=""/>
+</p>
+
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/Kafeinarts/.github/main/asset/h-philosophy.svg" alt="Our Philosophy"/>
+</h3>
+
+<p align="center">
+  <i>Belajar tidak harus langsung jago.</i>
+</p>
+
+<p align="center">
+  Tidak apa-apa jika masih sering error.<br>
+  Tidak apa-apa jika masih bingung.<br>
+  Tidak apa-apa jika project pertama belum sempurna.
+</p>
+
+<p align="center">
+  <b>Terus belajar. Terus mencoba. Terus membangun.</b>
+</p>
+
+<p align="center">
+  <i>Karena setiap developer hebat juga pernah memulai dari "Hello World". 🚀</i>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kafeinarts/.github/main/asset/divider.svg" width="100%" alt=""/>
+</p>
+
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/Kafeinarts/.github/main/asset/h-together.svg" alt="Let's Learn Together"/>
+</h3>
+
+<p align="center">
+  Kafeinarts adalah tempat untuk belajar, membangun, berbagi, dan berkembang bersama.
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kafeinarts/.github/main/asset/tagline.svg" width="470" alt="Learn, Build, Collaborate, Grow"/>
+</p>

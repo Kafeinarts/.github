@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="92" viewBox="0 0 260 92" role="img" aria-label="Personal Contributions">
+<defs>
+<linearGradient id="bgr5" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#141d33"/><stop offset="1" stop-color="#0a101d"/></linearGradient>
+<linearGradient id="bdr5" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="260" y2="0" spreadMethod="repeat"><stop offset="0" stop-color="#2563EB"/><stop offset="0.5" stop-color="#7dd3fc"/><stop offset="1" stop-color="#2563EB"/><animate attributeName="x1" values="0;260" dur="3.5s" repeatCount="indefinite"/><animate attributeName="x2" values="260;520" dur="3.5s" repeatCount="indefinite"/></linearGradient>
+<filter id="glr5" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="3"/></filter>
+</defs>
+<rect x="2" y="2" width="256" height="88" rx="16" fill="none" stroke="#2563EB" stroke-opacity="0.45" stroke-width="3" filter="url(#glr5)"/>
+<rect x="2" y="2" width="256" height="88" rx="16" fill="url(#bgr5)"/>
+<rect x="2.75" y="2.75" width="254.5" height="86.5" rx="15.25" fill="none" stroke="url(#bdr5)" stroke-width="1.5"/><circle cx="36" cy="46" r="20" fill="#2563EB" fill-opacity="0.22"/><g transform="translate(26.0 36.0) scale(1.25)" fill="none" stroke="#bfdbfe" stroke-width="1.28" stroke-linecap="round" stroke-linejoin="round"><circle cx="8" cy="5.5" r="2.7"/><path d="M2.8 13.6c.4-2.7 2.5-4.1 5.2-4.1s4.8 1.4 5.2 4.1"/></g><text x="68" y="39" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="13.5" font-weight="700" fill="#e6edf3">Personal Contributions</text><text x="68" y="58" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="11.5" fill="#94a3b8">Project dan kontribusi</text><text x="68" y="73" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="11.5" fill="#94a3b8">dari anggota Kafeinarts</text>
+</svg>
